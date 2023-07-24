@@ -15,7 +15,9 @@ module.exports = {
       fontFamily: {
         'roboto': ['var(--font-roboto)'],
         'manrope': ['var(--font-manrope)'],
-        'inter': ['var(--font-inter)']
+        'inter': ['var(--font-inter)'],
+        'poppin': ['var(--font-poppin)'],
+        'open-sans': ['var(--font-open-sans)']
       }
     },
   },
